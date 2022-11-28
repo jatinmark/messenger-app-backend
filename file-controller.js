@@ -1,7 +1,7 @@
 import  Grid   from "gridfs-stream";
 import mongoose from "mongoose";
 
- const Url = 'https://messenger-app-backend-gkftm4epo-jatinmark.vercel.app' ; 
+ const Url = 'https://messenger-app-backend.vercel.app' ; 
 
  let gfs , gridfsbucket ;
  const conn = mongoose.connection;
